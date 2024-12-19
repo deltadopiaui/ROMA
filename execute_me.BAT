@@ -1,0 +1,10 @@
+pip install ipython==7.21.0
+pip install matplotlib==3.3.4
+pip install numpy==1.20.1
+pip install openpyxl==3.0.7
+pip install pywin32==300
+pip install scipy==1.6.1
+pip install XlsxWriter==1.3.7
+pip install pandas==1.0.5
+pip install pathlib==1.0.1
+pip install pandas
